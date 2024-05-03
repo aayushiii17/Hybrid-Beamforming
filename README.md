@@ -13,10 +13,7 @@ Employing large antenna arrays and utilizing large bandwidth have the potential 
 6. Copy the generated file, i.e., `ULA_PS_only.mat` to the `td_searching` directory.
 7. Run `NFWB_BF_TTD_PS_hybrid_low_complexity_search_algorithm.m` in Matlab, which will generate the figure shown below.
 
-![Figure](https://github.com/YuZhang-GitHub/NFWB_BF/blob/main/N_16.png)
+![Figure](https://github.com/aayushiii17-GitHub/NFWB_BF/blob/main/N_16.png)
 
 If you have any problems with generating the figure, please contact [Aayushi Singh](https://www.linkedin.com/in/yu-zhang-391275181/).
 
-# License and Referencing
-This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
-> Y. Zhang and A. Alkhateeb, "[Deep Learning of Near Field Beam Focusing in Terahertz Wideband Massive MIMO Systems](https://ieeexplore.ieee.org/document/10004962)," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2022.3233566.
