@@ -13,7 +13,7 @@ Employing large antenna arrays and utilizing large bandwidth have the potential 
 6. Copy the generated file, i.e., `ULA_PS_only.mat` to the `td_searching` directory.
 7. Run `NFWB_BF_TTD_PS_hybrid_low_complexity_search_algorithm.m` in Matlab, which will generate the figure shown below.
 
-![Figure](https://github.com/Yu Zhang-GitHub/NFWB_BF/blob/main/N_16.png)
+![Figure](https://github.com/YuZhang-GitHub/NFWB_BF/blob/main/N_16.png)
 
 If you have any problems with generating the figure, please contact [Aayushi Singh](https://www.linkedin.com/in/yu-zhang-391275181/).
 
